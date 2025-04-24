@@ -12,7 +12,7 @@
       </div>
     </div>
 
-    <h2 class="text-center pt-3">PENGERIAN SAMPAH ORGANIK DAN ANORGANIK</h2>
+    <h2 class="text-center pt-3">PENGERTIAN SAMPAH ORGANIK DAN ANORGANIK</h2>
     <div class="pt-" style="display: flex">
       <img
         src="~/assets/organik.png"
@@ -21,42 +21,6 @@
       />
       <div style="display: block; padding-left: 20px">
         <h3>ORGANIK</h3>
-        <br />
-        <p>
-          Sampah organik adalah barang yang sudah tidak terpakai dan dibuang
-          oleh pemilik atau pemakai sebelumnya. Sampah organik masih bisa
-          dipakai jika dikelola dengan prosedur yang benar.
-        </p>
-        <p>
-          [1] Sampah organik dapat mengalami pelapukan (dekomposisi) dan terurai
-          menjadi bahan yang lebih kecil dan tidak berbau (sering disebut dengan
-          kompos).
-        </p>
-        <p>
-          [2] Kompos merupakan hasil pelapukan bahan-bahan organik seperti
-          dedaunan, jerami, alang-alang, sampah, rumput, dan bahan lain yang
-          sejenis. Proses pelapukannya sampah organik dapat dipercepat oleh
-          bantuan manusia.
-        </p>
-        <p>
-          [3] Sebesar 95 persen sampah organik dapat dihasilkan dari pasar
-          khusus seperti pasar sayur mayur, pasar buah, atau pasar ikan.
-        </p>
-        <p>
-          [4] Selain dari pasar khusus, 75 persen sampah organik berasal dari
-          daerah pemukiman masyarakat
-        </p>
-      </div>
-    </div>
-    <div class="pt-5">
-      <img
-        src="~/assets/anorganik.png"
-        class="rounded float-end"
-        alt=""
-        style="width: 250px; height: auto"
-      />
-      <div style="display: block; padding-left: 20px">
-        <h3>ANORGANIK</h3>
         <br />
         <p>
           Sampah adalah sisa buangan dari suatu produk atau barang yang sudah
@@ -85,6 +49,19 @@
           terurai dan sampah itu akan tertimbun dalam tanah dalam waktu lama,
           ini menyebabkan rusaknya lapisan tanah.
         </p>
+      </div>
+    </div>
+    <div class="pt-5">
+      <img
+        src="~/assets/anorganik.png"
+        class="rounded float-end"
+        alt=""
+        style="width: 250px; height: auto"
+      />
+      <div style="display: block; padding-left: 20px">
+        <h3>ANORGANIK</h3>
+        <br />
+        <p> Sampah organik adalah barang yang sudah tidak terpakai dan dibuang oleh pemilik atau pemakai sebelumnya. Sampah organik masih bisa dipakai jika dikelola dengan prosedur yang benar. </p> <p> [1] Sampah organik dapat mengalami pelapukan (dekomposisi) dan terurai menjadi bahan yang lebih kecil dan tidak berbau (sering disebut dengan kompos). </p> <p> [2] Kompos merupakan hasil pelapukan bahan-bahan organik seperti dedaunan, jerami, alang-alang, sampah, rumput, dan bahan lain yang sejenis. Proses pelapukannya sampah organik dapat dipercepat oleh bantuan manusia. </p> <p> [3] Sebesar 95 persen sampah organik dapat dihasilkan dari pasar khusus seperti pasar sayur mayur, pasar buah, atau pasar ikan. </p> <p> [4] Selain dari pasar khusus, 75 persen sampah organik berasal dari daerah pemukiman masyarakat </p>
       </div>
     </div>
     <br />
